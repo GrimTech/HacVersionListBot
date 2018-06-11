@@ -12,7 +12,6 @@ format with the password "switch", and replace resources/ConsoleCert.p12 with it
 For Discord integration, replace the discord webhook url string resource with
 a webhook for your channel.
 
-
 **Licensing:**
 
 This software is licensed under the terms of the GPLv3.  
